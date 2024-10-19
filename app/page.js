@@ -51,12 +51,12 @@ export default function Home() {
       <div className="text-white w-[80svw] container mx-auto pt-24 flex flex-col items-center gap-8">
         <h2 className="text-center font-bold text-2xl">Learn more about us</h2>
         <div className="flex flex-col xl:flex-row gap-8">
-          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/bLzNz-6oNYk?si=ofoVdIndcpALQB4g" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/OKPAPX_fGVw?si=0QkIeKPColbrucYw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/K4DyBUG242c?si=eAOt-Z9uLQcLug44" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/yJg-Y5byMMw?si=pc8vIrVogXk0ujCK" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         </div>
         <div className="flex flex-col xl:flex-row gap-8">
-          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/Fk0ySAL1dLs?si=32h8zXRF_wu45vnQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/N1s-GN1SWqY?si=v3Ta9VrMSG5jwqsG" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/Hn4sfC2PbhI?si=ObigsLM-CJT6ByTy" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe className="rounded w-[311px] h-44 xl:w-[560px] xl:h-[315px]" src="https://www.youtube.com/embed/PTF5xgT-pm8?si=pebU7sSlp5KwYDNI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         </div>
       </div>
     </>
