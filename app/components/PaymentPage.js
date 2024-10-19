@@ -123,13 +123,13 @@ const PaymentPage = ({ username }) => {
                         <ul className='max-h-[390px] overflow-y-scroll'>
                             {payments.length == 0 && <li className='text-lg text-slate-400 italic p-3'>No payments yet</li>}
                             {payments.map((p, i) => {
-                                return <li className='my-2 flex gap-4 items-center'>
+                                return <li key={i} className='my-2 flex gap-4 items-center'>
                                     <span><img width={40} src="/imgs/newdonour.gif" alt="🧟" /></span>
                                     <div>
                                         <div>
                                             {p.name} donated<span className='font-bold'> ₹{p.amount} </span>with a message:
                                         </div>
-                                        <span>"{p.message}"</span>
+                                        <span>&quot;{p.message}&quot;</span>
                                     </div>
                                 </li>
                             })}
