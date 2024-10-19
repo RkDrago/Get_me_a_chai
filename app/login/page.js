@@ -62,7 +62,7 @@ const Login = () => {
                                 Continue with Twitter
                             </button>
                             <button className="bg-sky-100 text-black flex items-center gap-5 py-3 pl-3 rounded-xl mb-4 font-bold w-72" href="/">
-                                <img src="/icons/Facebook.png" width={30} alt="" />
+                                <img src="/icons/facebook.png" width={30} alt="" />
                                 Continue with Facebook
                             </button>
                             <button className="bg-sky-100 text-black flex items-center gap-5 py-3 pl-3 rounded-xl mb-4 font-bold w-72" href="/" onClick={() => { signIn() }}>
